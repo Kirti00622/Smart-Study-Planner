@@ -64,13 +64,13 @@ Smart Study Planner helps students develop better study habits by creating struc
 
 The application distributes study hours intelligently across subjects.
 
-| Subject | Daily Time |
-| Mathematics | 2 Hours |
-| Science | 1.5 Hours |
-| English | 1 Hour |
-| Programming | 2 Hours |
-| Revision | 1 Hour |
-| Breaks | 30 Minutes |
+| Subject    Daily Time |
+| Mathematics : 2 Hours |
+| Science : 1.5 Hours |
+| English : 1 Hour |
+| Programming : 2 Hours |
+| Revision : 1 Hour |
+| Breaks : 30 Minutes |
 The distribution can be customized according to the student's goals and available study time.
 
 🛠️ Technologies Used:
@@ -84,18 +84,18 @@ The distribution can be customized according to the student's goals and availabl
 
  📂 Project Structure: 
 
-Smart-Study-Planner/
-│── index.html
-│── dashboard.html
-│── planner.html
-│── tips.html
-│── css/
-│── js/
-│── assets/
-│── images/
-└── README.md
+Smart-Study-Planner
+.  index.html
+ . dashboard.html
+.  planner.html
+.  tips.html
+. css
+. js
+. assets
+. images
+. README.md
 
- 🌟 Key Highlights
+ 🌟 Key Highlights:
 
  📅 Smart Study Planning
  📊 Interactive Dashboard
@@ -107,19 +107,19 @@ Smart-Study-Planner/
  📱 Responsive Design
  ⚡ Fast and Easy to Use
 
- 🎓 Future Enhancements
+ 🎓 Future Enhancements:
 
-User Login & Authentication
-AI-powered Study Recommendations
-Reminder Notifications
-Calendar Integration
-Cloud Data Storage
- Dark Mode
-Study Analytics Dashboard
- Mobile Application Support
+. User Login & Authentication
+. AI-powered Study Recommendations
+. Reminder Notifications
+. Calendar Integration
+. Cloud Data Storage
+.  Dark Mode
+. Study Analytics Dashboard
+.  Mobile Application Support
  
- 📖 Conclusion
+ 📖 Conclusion:  
  
 Smart Study Planner is designed to make studying more organized, efficient, and enjoyable. By combining intelligent scheduling, balanced study time distribution, and productivity-focused features, the application helps students stay on track, improve learning outcomes, and achieve their academic goals with confidence.
 
-📚 Plan Smarter • Study Better • Achieve More
+📚 Plan Smarter • Study Better • Achieve More...
